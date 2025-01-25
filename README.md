@@ -4,7 +4,7 @@ jdk21
 mysql 8.0.12
 
 ### 配置
-创建shirodemo数据库, 在application.properties配置中数据库
+创建shirodemo数据库, 在application.properties中配置数据库
 
 手动插入数据
 ```sql
